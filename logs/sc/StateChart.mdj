@@ -185,10 +185,10 @@
 							"containerExtending": false,
 							"left": 24,
 							"top": 32,
-							"width": 226.00001525878906,
+							"width": 244.00001525878906,
 							"height": 48,
 							"autoResize": false,
-							"text": "图书管理系统前端状态机图            Web应用",
+							"text": "图书馆管理系统前端状态机图            Web应用",
 							"wordWrap": true
 						},
 						{
@@ -20629,7 +20629,7 @@
 							"width": 281,
 							"height": 57,
 							"autoResize": false,
-							"text": "图书管理系统后台管理状态机图 Desktop应用",
+							"text": "图书馆管理系统后台管理状态机图 Desktop应用",
 							"wordWrap": true
 						},
 						{
@@ -39287,10 +39287,10 @@
 							"containerExtending": false,
 							"left": 472,
 							"top": 296,
-							"width": 124,
+							"width": 163,
 							"height": 40,
 							"autoResize": false,
-							"text": "违约指损毁或丢失",
+							"text": "违约指损毁或丢失或超期",
 							"wordWrap": true
 						},
 						{
@@ -39315,7 +39315,7 @@
 								"$ref": "AAAAAAFUeZEeLi3ccy0="
 							},
 							"lineStyle": 0,
-							"points": "595:315;664:315;664:416"
+							"points": "634:315;664:315;664:416"
 						},
 						{
 							"_type": "UMLTransitionView",
@@ -45914,10 +45914,10 @@
 							"containerExtending": false,
 							"left": 88,
 							"top": 48,
-							"width": 262.00001525878906,
+							"width": 280.0000305175781,
 							"height": 50,
 							"autoResize": false,
-							"text": "图书管理系统自助终端状态机图\nEmbedded System(Maybe)",
+							"text": "图书馆管理系统自助终端状态机图\nEmbedded System(Maybe)",
 							"wordWrap": true
 						},
 						{
@@ -51998,7 +51998,7 @@
 							"width": 280.0000305175781,
 							"height": 30,
 							"autoResize": false,
-							"text": "图书管理系统后台状态机图",
+							"text": "图书馆管理系统后台状态机图",
 							"wordWrap": true
 						},
 						{
